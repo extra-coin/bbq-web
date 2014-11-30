@@ -1,0 +1,149 @@
+p {text-align: justify; text-justify: newspaper;}
+
+#logo {
+	float:left; 
+	margin-right: 5%;
+	width: 284px;
+	margin-bottom: 20px;
+}
+
+#accueil, #home {
+	padding: 43px 27px 11px;
+}
+
+.hero-unit {
+	margin-bottom: 6px;
+
+}
+
+.hero-unit h1 {
+	font-size: 52px;
+}
+
+#sponsorlogos {
+	/*float: right; */
+}
+
+#eventdate {
+	margin-right: 10px;
+}
+
+ul.nav img {
+	width: 30px;
+}
+
+#technoportlogo {
+	width: 30%;
+	margin-right: 2%;
+}
+
+#insydelabslogo {
+	width: 23%;
+}
+
+#lilalogo {
+	width: 25%;
+	margin-right: 2%;
+}
+
+
+#unitylogo {
+	width: 20%;
+	margin-right: 2%;
+}
+
+#saturnlogo {
+	width: 25%;
+	margin-right: 2%;
+}		
+
+#coinlogo { 
+	width: 30%;
+	margin-right: 2%;
+}
+
+#githublogo { 
+	width: 20%;
+	margin-right: 2%;
+}
+
+#e4slogo {
+	width: 30%;
+	margin-right: 2%;
+}
+
+.llab {
+	font-size: 21px;
+}
+
+#btnreg {
+	/* margin-bottom: 30px; */
+}
+
+span#mailmsg span.success {
+	color: green;
+}
+span#mailmsg span.error {
+	color: red;
+}
+span#mailmsg span.correction {
+	font-weight: bold;
+}
+
+.footbox {
+    background-color: #EEEEEE;
+    border-radius: 6px 6px 6px 6px;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 30px;
+    margin-bottom: 30px;
+    padding: 30px;	
+}
+
+@media screen and (min-width: 979px) {
+	#technoportlogo {
+		width: 17%;
+		margin-right: 1%;
+	}
+
+	#coinlogo { 
+		width: 17%;
+		margin-right: 1%;
+	}
+
+	#e4slogo {
+		width: 16%;	
+	}	
+	#insydelabslogo {
+		width: 23%;	
+	}	
+}
+
+@media screen and (max-width: 979px) {
+	.hero-unit {
+		padding: 30px;
+	}
+}
+
+@media screen and (min-width: 590px) and (max-width: 710px) {
+	#logo {
+		float: none;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	#logo {
+		display: none;
+	}
+
+	.hero-unit h1 {
+		font-size: 45px;
+	}
+
+	.hero-unit {
+		padding: 30px;
+		padding-top: 10px;
+	}
+
+}
+
