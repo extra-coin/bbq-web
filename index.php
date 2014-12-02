@@ -47,14 +47,14 @@
       	<img id="logo" src="img/logo-bbq.png" alt="BBQ Game Jam" />
 		<h1>BBQ Game Jam 2</h1>
 		
-		<h2><span id="eventdate">30 et 31 Août 2014 - Luxembourg</span> <a href="http://insert.extra-coin.fr/bbqgamejam2014/" class="btn btn-primary btn-large" id="btnreg">Voir les jeux</a></h2>      	
+		<h2><span id="eventdate">30 et 31 Août 2014 - Luxembourg</span> <a href="http://insert.extra-coin.org/bbqgamejam2014/" class="btn btn-primary btn-large" id="btnreg">Voir les jeux</a></h2>      	
         <p>Cet été, l'association COIN et le Technoport SA vous ont proposé de participer à leur seconde Barbecue Game Jam&nbsp;: une journée de création de jeux vidéo agrémentée de soleil et de grillades&nbsp;! (veggie-friendly =P)
         	<br />Pour prolonger l'expérience, n'hésitez pas à consulter <a href="https://www.youtube.com/playlist?list=PLrKrxTCS7K8QERnoAfDv-kuuTREeU4_ua">les vidéos</a> et <a href="https://www.facebook.com/media/set/?set=a.763979446996540.1073741828.424596440934844&type=1">les photos</a> de l'événement.
 
         </p>      
 	<div id="sponsorlogos">
 		<a href="http://www.technoport.lu" title="Technoport"><img id="technoportlogo" src="img/technoport.png" alt="Technoport" /></a>
-		<a href="http://www.extra-coin.fr" title="COIN"><img id="coinlogo" src="img/coin-logo.png" alt="COIN" /></a>
+		<a href="http://www.extra-coin.org" title="COIN"><img id="coinlogo" src="img/coin-logo.png" alt="COIN" /></a>
 		<a href="http://www.github.com" title="GitHub"><img id="githublogo" src="img/GitHub_Logo.png" alt="GitHub" /></a>
 		<a href="http://www.promotechlabs.com/en/partnership/lila-project/"><img id="lilalogo"src="img/LILA_LOGO_NWEIVB_V1.gif" alt="LILA logo"/></a>
 		<a href="http://unity3d.com/"><img id="unitylogo" src="img/Unity-logo.png" alt="Unity logo"/></a>
@@ -104,7 +104,7 @@
 		</address>
 		<p>À une minute à pied de la gare, arrêt "Belval Université" et places de parking gratuites devant le bâtiment. Le lieu sera balisé avec des ballons aux différents points d'arrivée.
 Le bâtiment est adapté aux personnes à mobilité réduite.</p>
-<p><strong>Attention :</strong> dû à un événement sportif le dimanche, il est vivement recommandé d’accéder au Technoport par l'avenue de la Fonte (<a href="http://bbq.extra-coin.fr/AccesTechnoport.png">voir ce plan</a>)
+<p><strong>Attention :</strong> dû à un événement sportif le dimanche, il est vivement recommandé d’accéder au Technoport par l'avenue de la Fonte (<a href="http://bbq.extra-coin.org/AccesTechnoport.png">voir ce plan</a>)
 L'avenue de la Fonte est une rue piétonne, mais vous pouvez l'emprunter pour accéder au parking du Technoport</p>
 
 		<h3>Quand ?</h3>
@@ -177,7 +177,7 @@ L'avenue de la Fonte est une rue piétonne, mais vous pouvez l'emprunter pour ac
 		</p>
 		<h3>Tarif</h3>	
 		<p>
-		Une participation de 20€ (ou 15€ pour les membres <a href="http://extra-coin.fr/">COIN</a>) aux frais d'organisation est requise pour s'inscire. Ces frais d'inscription supportent la mise en place de l'événement. Les boissons et la nourriture seront fournis pendant toute la durée, venez juste avec votre plus beau sourire et indiquez nous en commentaire si vous avez des restrictions alimentaires (allergies, ...).
+		Une participation de 20€ (ou 15€ pour les membres <a href="http://extra-coin.org/">COIN</a>) aux frais d'organisation est requise pour s'inscire. Ces frais d'inscription supportent la mise en place de l'événement. Les boissons et la nourriture seront fournis pendant toute la durée, venez juste avec votre plus beau sourire et indiquez nous en commentaire si vous avez des restrictions alimentaires (allergies, ...).
 <br/><br/>
 		En cas d'annulation d'une participation après le 24 Août, nous ne pouvons pas garantir le remboursement des frais de participation, étant donné que l'on aura déjà commandé les victuailles.</p>
 
@@ -250,15 +250,15 @@ L'avenue de la Fonte est une rue piétonne, mais vous pouvez l'emprunter pour ac
 		<input type="hidden" name="option_select1" value="Membre COIN">
 		<input type="hidden" name="option_amount1" value="15.00">
 		<input type="hidden" name="option_index" value="0">
-		<input type="hidden" name="business" value="web-account@extra-coin.fr">
+		<input type="hidden" name="business" value="web-account@extra-coin.org">
 		<input type="hidden" name="lc" value="FR">
 		<input type="hidden" name="item_name" value="Inscription BBQ GJ">
 		<input type="hidden" name="button_subtype" value="services">
 		<input type="hidden" name="no_note" value="0">
 		<input type="hidden" name="currency_code" value="EUR">
-		<input type="hidden" name="notify_url" value="http://extra-coin.fr/ipn.php">
-		<input type="hidden" name="return" value="http://bbq.extra-coin.fr/inscription-ok.html">
-		<input type="hidden" name="cancel_return" value="http://bbq.extra-coin.fr/inscription-ko.html">
+		<input type="hidden" name="notify_url" value="http://extra-coin.org/ipn.php">
+		<input type="hidden" name="return" value="http://bbq.extra-coin.org/inscription-ok.html">
+		<input type="hidden" name="cancel_return" value="http://bbq.extra-coin.org/inscription-ko.html">
 		<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest">
 </div>
 	</fieldset>
