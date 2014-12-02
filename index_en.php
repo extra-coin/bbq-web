@@ -47,7 +47,7 @@
       	<img id="logo" src="img/logo-bbq.png" alt="BBQ Game Jam" />
 		<h1>BBQ Game Jam 2</h1>
 		
-		<h2><span id="eventdate">august 30-31, 2014 - Luxembourg</span> <a href="http://insert.extra-coin.fr/bbqgamejam2014/" class="btn btn-primary btn-large" id="btnreg">See the games!</a></h2>      	
+		<h2><span id="eventdate">august 30-31, 2014 - Luxembourg</span> <a href="http://insert.extra-coin.org/bbqgamejam2014/" class="btn btn-primary btn-large" id="btnreg">See the games!</a></h2>      	
         <p>This summer, the COIN association and Technoport SA organized their second Barbecue Game Jam: one day of video game creation accompanied with sun* and grilled stuff! (veggie-friendly =P) 
       	<br />To get an idea of the atmosphere of this event, please go to our <a href="https://www.youtube.com/playlist?list=PLrKrxTCS7K8QERnoAfDv-kuuTREeU4_ua">videos</a> and <a href="https://www.facebook.com/media/set/?set=a.763979446996540.1073741828.424596440934844&type=1">pictures</a>.
 
@@ -55,7 +55,7 @@
         </p>      
 	<div id="sponsorlogos">
 		<a href="http://www.technoport.lu" title="Technoport"><img id="technoportlogo" src="img/technoport.png" alt="Technoport" /></a>
-		<a href="http://www.extra-coin.fr" title="COIN"><img id="coinlogo" src="img/coin-logo.png" alt="COIN" /></a>
+		<a href="http://www.extra-coin.org" title="COIN"><img id="coinlogo" src="img/coin-logo.png" alt="COIN" /></a>
 		<a href="http://www.github.com" title="GitHub"><img id="githublogo" src="img/GitHub_Logo.png" alt="GitHub" /></a>
 		<a href="http://www.promotechlabs.com/en/partnership/lila-project/"><img id="lilalogo"src="img/LILA_LOGO_NWEIVB_V1.gif" alt="LILA logo"/></a>
 		<a href="http://unity3d.com/"><img id="unitylogo" src="img/Unity-logo.png" alt="Unity logo"/></a>
@@ -104,7 +104,7 @@
 		</address>
 		<p>One minute away from the train station ("Belval Université" stop). Free parking lot in front of the building. Balloons will indicate the entrance from the road and the train station.
 The building is adapted to people with reduced mobility.</p>
-		<p><strong>Warning:</strong> due to a sport event taking place on sunday, it is highly recommanded to access the Technoport through the "Avenue de la Fonte" (<a href="http://bbq.extra-coin.fr/AccesTechnoport.png">see this map</a>).
+		<p><strong>Warning:</strong> due to a sport event taking place on sunday, it is highly recommanded to access the Technoport through the "Avenue de la Fonte" (<a href="http://bbq.extra-coin.org/AccesTechnoport.png">see this map</a>).
 The "Avenue de la Fonte" is a pedestrian street but you can drive through it to access the Technoport parking.</p>
 		<h3>When?</h3>
 
@@ -247,15 +247,15 @@ The "Avenue de la Fonte" is a pedestrian street but you can drive through it to 
 		<input type="hidden" name="option_select1" value="Membre COIN">
 		<input type="hidden" name="option_amount1" value="15.00">
 		<input type="hidden" name="option_index" value="0">
-		<input type="hidden" name="business" value="web-account@extra-coin.fr">
+		<input type="hidden" name="business" value="web-account@extra-coin.org">
 		<input type="hidden" name="lc" value="FR">
 		<input type="hidden" name="item_name" value="Inscription BBQ GJ">
 		<input type="hidden" name="button_subtype" value="services">
 		<input type="hidden" name="no_note" value="0">
 		<input type="hidden" name="currency_code" value="EUR">
-		<input type="hidden" name="notify_url" value="http://extra-coin.fr/ipn.php">
-		<input type="hidden" name="return" value="http://bbq.extra-coin.fr/inscription-ok.html">
-		<input type="hidden" name="cancel_return" value="http://bbq.extra-coin.fr/inscription-ko.html">
+		<input type="hidden" name="notify_url" value="http://extra-coin.org/ipn.php">
+		<input type="hidden" name="return" value="http://bbq.extra-coin.org/inscription-ok.html">
+		<input type="hidden" name="cancel_return" value="http://bbq.extra-coin.org/inscription-ko.html">
 		<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest">
 </div>
 	</fieldset>
