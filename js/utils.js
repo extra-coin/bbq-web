@@ -5,7 +5,7 @@ $(document).ready(function() {
 	});
 
 	$('#melcontact').on('click', function(e) {
-		this.href='mailto:' + 'contact' + '@' + 'extra-coin.fr';
+		this.href='mailto:' + 'contact' + '@' + 'extra-coin.org';
 	});
 
 	$('#custom').on('keyup', function() {
