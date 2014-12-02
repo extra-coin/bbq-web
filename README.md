@@ -1,6 +1,6 @@
 # bbq-web
 
-Code that power http://bbq.extra-coin.fr .
+Code that power http://bbq.extra-coin.org .
 
 
 ## License
