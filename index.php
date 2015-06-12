@@ -3,7 +3,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>BBQ Game Jam 30-31 Août 2014</title>
+	<title>BBQ Game Jam - 5-6 Septembre 2015</title>
     <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
     <link href="bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">	
 	<link rel="stylesheet" href="stylesheet.css" type="text/css">
@@ -45,20 +45,18 @@
 
       <div id="accueil" class="hero-unit">
       	<img id="logo" src="img/logo-bbq.png" alt="BBQ Game Jam" />
-		<h1>BBQ Game Jam 2</h1>
+		<h1>BBQ Game Jam 3</h1>
 		
-		<h2><span id="eventdate">30 et 31 Août 2014 - Luxembourg</span> <a href="http://insert.extra-coin.org/bbqgamejam2014/" class="btn btn-primary btn-large" id="btnreg">Voir les jeux</a></h2>      	
-        <p>Cet été, l'association COIN et le Technoport SA vous ont proposé de participer à leur seconde Barbecue Game Jam&nbsp;: une journée de création de jeux vidéo agrémentée de soleil et de grillades&nbsp;! (veggie-friendly =P)
-        	<br />Pour prolonger l'expérience, n'hésitez pas à consulter <a href="https://www.youtube.com/playlist?list=PLrKrxTCS7K8QERnoAfDv-kuuTREeU4_ua">les vidéos</a> et <a href="https://www.facebook.com/media/set/?set=a.763979446996540.1073741828.424596440934844&type=1">les photos</a> de l'événement.
-
+		<h2><span id="eventdate">5-6 septembre 2015</span> <a href="#inscription" class="btn btn-primary btn-large" id="btnreg">Je m'inscris!</a></h2>      	
+        <p>Cet été, nous invitons tous les créatifs, qu'ils soient musiciens, graphistes, développeurs, bidouilleurs à participer dans une ambiance décontractée à la Barbecue Game Jam&nbsp;: une journée de création de jeux&nbsp;vidéo agrémentée de soleil et de grillades&nbsp;! (veggie-friendly&nbsp;=P) Cette année, vous aurez la possibilité de participer à l'événement sur 2 sites : au <a href="http://www.technoport.lu/">Technoport à Esch-sur-Alzette, Luxembourg</a> ou à <a href="http://tcrm-blida.com/">TCRM-Blida à Metz, France</a>.
         </p>      
 	<div id="sponsorlogos">
 		<a href="http://www.technoport.lu" title="Technoport"><img id="technoportlogo" src="img/technoport.png" alt="Technoport" /></a>
 		<a href="http://www.extra-coin.org" title="COIN"><img id="coinlogo" src="img/coin-logo.png" alt="COIN" /></a>
-		<a href="http://www.github.com" title="GitHub"><img id="githublogo" src="img/GitHub_Logo.png" alt="GitHub" /></a>
+		<a href="http://tcrm-blida.com" title="Tcrm-Blida"><img id="blidalogo" src="img/logoblida.jpg" alt="Blida" /></a>
+		<a href="http://www.cr.rockhal.lu/"><img src="img/logo_rockhal.png" id="rockhallogo" alt="Rockhal Music &amp; Resources" /></a>
 		<a href="http://www.promotechlabs.com/en/partnership/lila-project/"><img id="lilalogo"src="img/LILA_LOGO_NWEIVB_V1.gif" alt="LILA logo"/></a>
-		<a href="http://unity3d.com/"><img id="unitylogo" src="img/Unity-logo.png" alt="Unity logo"/></a>
-		<a href="http://blog.saturn.lu/saturn-esch/"><img id="saturnlogo" src="img/saturn_logo.jpg" alt="Saturn Luxembourg Belval Plaza"/></a>		
+
 	</div>
       </div>	
 
@@ -78,7 +76,7 @@
 		<div class="span4">
 		<h3>BBQ Game Jam ?</h3>
 
-		<p>La BBQ Game Jam est légèrement différente. Elle se déroule sur 24h (de 14h à 14h), avec des équipes de 1 à 4 personnes et le but est de créer un jeu sur un thème imposé, le tout autour d'un BBQ.
+		<p>La BBQ Game Jam est légèrement différente. Elle se déroule sur 24h (de 14h à 14h), avec des équipes de 1 à 5 personnes et le but est de créer un jeu sur un thème imposé, le tout autour d'un BBQ.
 		</p>
 		</div>
 
@@ -90,11 +88,12 @@
 		</div>
 		</div>
 
-		<h2 id="date-lieu">Date et lieu</h2>
+		<h2 id="date-lieu">Date et lieux</h2>
+				<h3>Où ?</h3>
 		<div class="row">
 
-		<div class="span4">
-		<h3>Où ?</h3>
+		<div class="span6">
+
 
 		<address>
 			<strong>Technoport Luxembourg</strong><br />
@@ -102,35 +101,46 @@
 		L-4362 Esch-sur-Alzette<br />
 		Luxembourg<br />
 		</address>
-		<p>À une minute à pied de la gare, arrêt "Belval Université" et places de parking gratuites devant le bâtiment. Le lieu sera balisé avec des ballons aux différents points d'arrivée.
+		<a href="https://goo.gl/maps/0TUlF">carte</a>
+		<p>À une minute à pied de la gare, arrêt "Belval Université" et places de parking gratuites devant le bâtiment. 
 Le bâtiment est adapté aux personnes à mobilité réduite.</p>
-<p><strong>Attention :</strong> dû à un événement sportif le dimanche, il est vivement recommandé d’accéder au Technoport par l'avenue de la Fonte (<a href="http://bbq.extra-coin.org/AccesTechnoport.png">voir ce plan</a>)
-L'avenue de la Fonte est une rue piétonne, mais vous pouvez l'emprunter pour accéder au parking du Technoport</p>
+
+		</div>
+
+		<div class="span6">
+		<address>
+			<strong>TCRM-Blida</strong><br />
+		7 avenue de Blida<br />
+		F-57000 Metz<br />
+		France<br />
+		</address>
+		<a href="https://goo.gl/maps/w3fq9">carte</a>
+		<p>À 15 min à pied de la gare de Metz. En Mettis, ligne A, arrêt Pontiffroy. À 1h20 de Paris en train. Des places de parking gratuites sont à disposition le long du boulevard.</p>
+
+		</div>
 
 		<h3>Quand ?</h3>
 
-		<p>De 14h le Samedi 30 Août 2014, jusqu'à 14h le Dimanche 31 (voire un peu plus si tu souhaites tester les jeux et discuter).</p>
-		</div>
-		<div class="span8">
-		<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.lu/maps?oe=utf-8&amp;client=firefox-a&amp;channel=rcs&amp;q=9+avenue+des+Hauts-Fourneaux+L-4362+Esch-sur-Alzette&amp;ie=UTF8&amp;hq=&amp;hnear=9+Avenue+des+Hauts-Fourneaux,+Esch-sur-Alzette,+Luxembourg&amp;gl=lu&amp;ll=49.502442,5.949234&amp;spn=0.010953,0.01929&amp;t=h&amp;z=14&amp;output=embed"></iframe><br /><small><a href="https://maps.google.lu/maps?oe=utf-8&amp;client=firefox-a&amp;channel=rcs&amp;q=9+avenue+des+Hauts-Fourneaux+L-4362+Esch-sur-Alzette&amp;ie=UTF8&amp;hq=&amp;hnear=9+Avenue+des+Hauts-Fourneaux,+Esch-sur-Alzette,+Luxembourg&amp;gl=lu&amp;ll=49.502442,5.949234&amp;spn=0.010953,0.01929&amp;t=h&amp;z=14&amp;source=embed" style="color:#0000FF;text-align:left">Agrandir le plan</a></small>
-		</div>
-		</div>	
+		<p>De 14h le Samedi 5 Septembre 2015, jusqu'à 14h le Dimanche 6 (voire un peu plus si tu souhaites tester les jeux et discuter).</p>
 
-		<h2 id="date-lieu">Souvenirs de la BBQ Game Jam 1</h2>
+		<h2 id="date-lieu">Souvenirs des éditions précédentes</h2>
 		<div class="row">
 
 		<div class="span4">
 		<p style="text-align:center"><img src="img/bbq2.jpg" /><br /><br />
-		Plus de 50 inscrits</p>
+		des créatifs de tous horizons</p>
 		</div>
 		<div class="span4">
 		<p style="text-align:center"><img src="img/bbq1.jpg" /><br /><br />
-		12 équipes</p>
+		une ambiance décontractée</p>
 		</div>
 		<div class="span4">
 		<p style="text-align:center"><img src="img/bbq3.jpg" /><br /><br />
-		Un BBQ épique</p>
+		Un BBQ épique !</p>
 		</div>
+	</div>
+		<div class="row"><div class="span12">
+			Tu peux aussi te faire une idée de l'événement en visionnant <a href="https://www.youtube.com/playlist?list=PLrKrxTCS7K8QERnoAfDv-kuuTREeU4_ua">les vidéos de l'an passé</a> ainsi que <a href="https://www.facebook.com/media/set/?set=a.763979446996540.1073741828.424596440934844&type=1">les photos</a>.</div>
 		</div>
 		
 		<h2 id="infos">Plus d'infos</h2>
@@ -160,7 +170,7 @@ L'avenue de la Fonte est une rue piétonne, mais vous pouvez l'emprunter pour ac
 		</p>
 		<h3>Dormir ?</h3>
 
-		<p>Un espace sera dédié au siestage, ramènes ton sac de couchage !</p>
+		<p>Un espace sera dédié au siestage, ramène ton sac de couchage !</p>
 
 		</div>
 
@@ -179,7 +189,7 @@ L'avenue de la Fonte est une rue piétonne, mais vous pouvez l'emprunter pour ac
 		<p>
 		Une participation de 20€ (ou 15€ pour les membres <a href="http://extra-coin.org/">COIN</a>) aux frais d'organisation est requise pour s'inscire. Ces frais d'inscription supportent la mise en place de l'événement. Les boissons et la nourriture seront fournis pendant toute la durée, venez juste avec votre plus beau sourire et indiquez nous en commentaire si vous avez des restrictions alimentaires (allergies, ...).
 <br/><br/>
-		En cas d'annulation d'une participation après le 24 Août, nous ne pouvons pas garantir le remboursement des frais de participation, étant donné que l'on aura déjà commandé les victuailles.</p>
+		En cas d'annulation d'une participation après le 30 Août, nous ne pouvons pas garantir le remboursement des frais de participation, étant donné que l'on aura déjà commandé les victuailles.</p>
 
 		<h3>Inscription participants</h3>
 		
@@ -189,7 +199,7 @@ L'avenue de la Fonte est une rue piétonne, mais vous pouvez l'emprunter pour ac
 		<p>Trop tard, les inscriptions sont terminées pour cette année.</p>
 				<?php }else if ($current_BBQ < $max_BBQ) { ?>
 		
-		<p>L'inscription est obligatoire et doit se faire avant le 24 Août via le formulaire suivant&nbsp;:<br/>
+		<p>L'inscription est obligatoire et doit se faire avant le 30 Août via le formulaire suivant&nbsp;:<br/>
 		
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" name="myPayPal" id="myPayPal">
 		<fieldset>
@@ -212,7 +222,7 @@ L'avenue de la Fonte est une rue piétonne, mais vous pouvez l'emprunter pour ac
 <br />
 		<input type="hidden" name="on5" value="Téléphone"/><label for="os5">Téléphone :</label><input type="text" name="os5" id="os5" maxlength="200" size="44"/>
 		<span class="help-block">(pratique en cas de pépin)</span>
-		<label for="custom">Commentaire : </label><textarea name="custom" id="custom" maxlength="255" rows="4">Merci d'indiquer votre taille de t-shirt :-)</textarea> <span id="custom_size">0 / 255</span>
+		<label for="custom">Commentaire : </label><textarea name="custom" id="custom" maxlength="255" rows="4"></textarea> <span id="custom_size">0 / 255</span>
 		<span class="help-block">(Un rôle spécifique ? Un souhait d'équipe ? Des restrictions alimentaires ? Une remarque ? 255 caractères max)</span>
 		
 		<input type="hidden" name="on0" value="Tarif"/><label for="os0">Tarif (pizza et BBQ inclus !) :</label><select name="os0" id="os0">
@@ -285,13 +295,7 @@ L'avenue de la Fonte est une rue piétonne, mais vous pouvez l'emprunter pour ac
 		Les visiteurs sont les bienvenues à partir de 14h le dimanche, l'inscription est gratuite et obligatoire <a id="melcontact" href="#">par e-mail</a>. En tant que visiteur, vous pourrez tester les jeux réalisés.
 		</p>
 		
-		<p>Les membres de la presse sont les bienvenues durant tout l'événement, sous simple notifaction de leur présence <a id="melcontact" href="#">par e-mail</a>.</p>
-
-						<h3>Pour les plus rapides !</h3>
-		<p>
-		Inscrivez-vous avant le 1er août pour tenter de gagner un exemple du livre Game Jam Survival Guide de Christer Kaitila ! L'ouvrage sera remis à un participant par tirage au sort parmi les inscrits avant cette date.
-		</p>
-		<p><a href="http://www.packtpub.com/game-jam-survival-guide/book"><img src="img/book.jpg" width="200" /></a></p>
+		<p>La presse est bienvenue durant tout l'événement, il suffit de nous contacter <a id="melcontact" href="#">par e-mail</a>.</p>
 		
 			<h3>Une initiative hébergée par le projet LILA</h3>
 
@@ -316,13 +320,12 @@ L'avenue de la Fonte est une rue piétonne, mais vous pouvez l'emprunter pour ac
 				<p>Ils nous supportent dans l'organisation de cet événement, un grand merci à eux&nbsp;!</p>
 				<p><a href="https://twitter.com/fablablux"><img src="img/fablablux.png" alt="FablabLux"> Fablablux</a>, le fabuleux fablab luxembourgeois</p>
 				<p><a href="http://www.gamesidestory.com/"><img src="img/gamesidestory.jpg" width="48" alt="GameSideStory"> Gamesidestory</a>, le site de news sur les jeux indé qui nous suit depuis le début.</p>
-				<p><a href="http://www.cr.rockhal.lu/"><img src="img/logo_rockhal.png" width="48" alt="Rockhal"> La Rockhal "Music &amp; Resources"</a>, qui nous a ouvert les portes du monde de la musique.</p>
 			</div>
 		</div>
 
 		<hr>
 		<footer>
-			<p>© COIN 2014</p>
+			<p>© COIN 2015</p>
 		</footer>
 	</div>
  	<script src="js/jquery-1.10.1.min.js"></script>

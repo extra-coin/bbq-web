@@ -3,7 +3,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>BBQ Game Jam, august 30-31, 2014</title>
+	<title>BBQ Game Jam - september 5-6, 2015</title>
     <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
     <link href="bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">	
 	<link rel="stylesheet" href="stylesheet.css" type="text/css">
@@ -45,21 +45,19 @@
 
       <div id="accueil" class="hero-unit">
       	<img id="logo" src="img/logo-bbq.png" alt="BBQ Game Jam" />
-		<h1>BBQ Game Jam 2</h1>
+		<h1>BBQ Game Jam 3</h1>
 		
-		<h2><span id="eventdate">august 30-31, 2014 - Luxembourg</span> <a href="http://insert.extra-coin.org/bbqgamejam2014/" class="btn btn-primary btn-large" id="btnreg">See the games!</a></h2>      	
-        <p>This summer, the COIN association and Technoport SA organized their second Barbecue Game Jam: one day of video game creation accompanied with sun* and grilled stuff! (veggie-friendly =P) 
-      	<br />To get an idea of the atmosphere of this event, please go to our <a href="https://www.youtube.com/playlist?list=PLrKrxTCS7K8QERnoAfDv-kuuTREeU4_ua">videos</a> and <a href="https://www.facebook.com/media/set/?set=a.763979446996540.1073741828.424596440934844&type=1">pictures</a>.
+		<h2><span id="eventdate">September 5-6, 2015</span> <a href="#inscription" class="btn btn-primary btn-large" id="btnreg">Register!</a></h2>      	
+        <p>This summer, we invite all creative people, graphical designers, musicians, developers, hackers to participate in a relaxed atmosphere to the Barbecue Game Jam: one day of video game creation accompanied with sun* and grilled stuff! (veggie-friendly =P) This year, you will be able to attend to this game jam on the location of your choice: <a href="http://www.technoport.lu/">Technoport in Esch-sur-Alzette, Luxembourg</a> or <a href="http://tcrm-blida.com/">TCRM-Blida in Metz, France</a>.
 
 
         </p>      
 	<div id="sponsorlogos">
 		<a href="http://www.technoport.lu" title="Technoport"><img id="technoportlogo" src="img/technoport.png" alt="Technoport" /></a>
 		<a href="http://www.extra-coin.org" title="COIN"><img id="coinlogo" src="img/coin-logo.png" alt="COIN" /></a>
-		<a href="http://www.github.com" title="GitHub"><img id="githublogo" src="img/GitHub_Logo.png" alt="GitHub" /></a>
+		<a href="http://tcrm-blida.com" title="Tcrm-Blida"><img id="blidalogo" src="img/logoblida.jpg" alt="Blida" /></a>
+		<a href="http://www.cr.rockhal.lu/"><img src="img/logo_rockhal.png" id="rockhallogo" alt="Rockhal Music &amp; Resources" /></a>
 		<a href="http://www.promotechlabs.com/en/partnership/lila-project/"><img id="lilalogo"src="img/LILA_LOGO_NWEIVB_V1.gif" alt="LILA logo"/></a>
-		<a href="http://unity3d.com/"><img id="unitylogo" src="img/Unity-logo.png" alt="Unity logo"/></a>
-		<a href="http://blog.saturn.lu/saturn-esch/"><img id="saturnlogo" src="img/saturn_logo.jpg" alt="Saturn Luxembourg Belval Plaza"/></a>		
 	</div>
       </div>	
 		
@@ -78,7 +76,7 @@
 		<div class="span4">
 		<h3>BBQ Game Jam ?</h3>
 
-		<p>The BBQ Game Jam is slightly different. It spans over a single day, teams consist of 1-4 jammers and the objective is to create games based on a given theme. All this while eating grilled stuff.
+		<p>The BBQ Game Jam is slightly different. It spans over a single day, teams consist of 1-5 jammers and the objective is to create games based on a given theme. All this while eating grilled stuff.
 		</p>
 		</div>
 
@@ -91,10 +89,11 @@
 		</div>
 
 		<h2 id="date-lieu">Location and date</h2>
+		<h3>Where?</h3>
 		<div class="row">
 
-		<div class="span4">
-		<h3>Where?</h3>
+		<div class="span6">
+
 
 		<address>
 			<strong>Technoport Luxembourg</strong><br />
@@ -102,34 +101,47 @@
 		L-4362 Esch-sur-Alzette<br />
 		Luxembourg<br />
 		</address>
+		<a href="https://goo.gl/maps/0TUlF">map</a>
 		<p>One minute away from the train station ("Belval Université" stop). Free parking lot in front of the building. Balloons will indicate the entrance from the road and the train station.
 The building is adapted to people with reduced mobility.</p>
-		<p><strong>Warning:</strong> due to a sport event taking place on sunday, it is highly recommanded to access the Technoport through the "Avenue de la Fonte" (<a href="http://bbq.extra-coin.org/AccesTechnoport.png">see this map</a>).
-The "Avenue de la Fonte" is a pedestrian street but you can drive through it to access the Technoport parking.</p>
+		</div>
+
+
+		<div class="span6">
+		<address>
+			<strong>TCRM-Blida</strong><br />
+		7 avenue de Blida<br />
+		F-57000 Metz<br />
+		France<br />
+		</address>
+		<a href="https://goo.gl/maps/w3fq9">map</a>
+		<p>15 minutes away from the train station. By tram ("Mettis"), line A, "Pontiffroy" stop. 1 hour and 20 minutes away from Paris by train.  Free parking lot in front of the building.</p>
+		</div>
+	</div>
+
 		<h3>When?</h3>
 
-		<p>From Saturday, august 30, 2014, 2pm up to sunday, 2pm (and you can stay a little longer if ou feel like it to talk and play some more).</p>
-		</div>
-		<div class="span8">
-		<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.lu/maps?oe=utf-8&amp;client=firefox-a&amp;channel=rcs&amp;q=9+avenue+des+Hauts-Fourneaux+L-4362+Esch-sur-Alzette&amp;ie=UTF8&amp;hq=&amp;hnear=9+Avenue+des+Hauts-Fourneaux,+Esch-sur-Alzette,+Luxembourg&amp;gl=lu&amp;ll=49.502442,5.949234&amp;spn=0.010953,0.01929&amp;t=h&amp;z=14&amp;output=embed"></iframe><br /><small><a href="https://maps.google.lu/maps?oe=utf-8&amp;client=firefox-a&amp;channel=rcs&amp;q=9+avenue+des+Hauts-Fourneaux+L-4362+Esch-sur-Alzette&amp;ie=UTF8&amp;hq=&amp;hnear=9+Avenue+des+Hauts-Fourneaux,+Esch-sur-Alzette,+Luxembourg&amp;gl=lu&amp;ll=49.502442,5.949234&amp;spn=0.010953,0.01929&amp;t=h&amp;z=14&amp;source=embed" style="color:#0000FF;text-align:left">Enlarge this map</a></small>
-		</div>
-		</div>	
+		<p>From Saturday, september 5, 2015, 2pm up to sunday, 2pm (and you can stay a little longer if ou feel like it to talk and play some more).</p>
 
-		<h2 id="date-lieu">Memories from the BBQ Game Jam 1</h2>
+
+		<h2 id="date-lieu">Memories from previous editions</h2>
 		<div class="row">
 
 		<div class="span4">
 		<p style="text-align:center"><img src="img/bbq2.jpg" /><br /><br />
-		More than 50 jammers</p>
+		Creative people from various backgrounds</p>
 		</div>
 		<div class="span4">
 		<p style="text-align:center"><img src="img/bbq1.jpg" /><br /><br />
-		12 teams</p>
+		a relaxed atmosphere</p>
 		</div>
 		<div class="span4">
 		<p style="text-align:center"><img src="img/bbq3.jpg" /><br /><br />
-		An epic BBQ</p>
+		An epic BBQ!</p>
 		</div>
+		</div>
+		<div class="row"><div class="span12">
+			You can also have an idea of this event by watching <a href="https://www.youtube.com/playlist?list=PLrKrxTCS7K8QERnoAfDv-kuuTREeU4_ua">the videos from last year</a> and some <a href="https://www.facebook.com/media/set/?set=a.763979446996540.1073741828.424596440934844&type=1">pics</a>.</div>
 		</div>
 		
 		<h2 id="infos">More information</h2>
@@ -175,7 +187,7 @@ The "Avenue de la Fonte" is a pedestrian street but you can drive through it to 
 		<p>
 		Registration fees of 20€ (or 15€ for COIN members) are required. The registration fees supports setting up the event to give you access to an all inclusive package. Drinks, snacks and meals will be provided throughout the day, just bring your best smile and please indicate if you have any food restrictions. 
 <br/><br/>
-		In case of registration cancellation before august the 24th, we may not be able to refund fees as we would already have ordered the BBQ and pizzas.</p>
+		In case of registration cancellation before august the 30th, we may not be able to refund fees as we would already have ordered the BBQ and pizzas.</p>
 
 		<h3>Registration for participants</h3>
 		
@@ -186,7 +198,7 @@ The "Avenue de la Fonte" is a pedestrian street but you can drive through it to 
 				<?php }else if ($current_BBQ < $max_BBQ) { ?>
 		
 		
-		<p>Online registration is mandatory and must be done before august 24 through this form:</p>
+		<p>Online registration is mandatory and must be done before august 30 through this form:</p>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" name="myPayPal" id="myPayPal">
 		<fieldset>
@@ -202,14 +214,14 @@ The "Avenue de la Fonte" is a pedestrian street but you can drive through it to 
 		<input type="hidden" name="on1" value="Rôle"/><label for="os1">Role:</label><select name="os1" id="os1">
 			<option value="Développeur">Developer</option>
 			<option value="Game designer">Game designer</option>
-			<option value="Illustrateur">Illustrator</option>
-			<option value="Musicien">Musician</option>
+			<option value="Illustrateur">Illustrator / graphical designer</option>
+			<option value="Musicien">Musician / sound designer</option>
 			<option value="Autre">Other (please precise in comment)</option>
 		</select>
 <br />
 		<input type="hidden" name="on5" value="Téléphone"/><label for="os5">Phone :</label><input type="text" name="os5" id="os5" maxlength="200" size="44"/>
 		<span class="help-block">(can be useful in case of problem)</span>
-		<label for="custom">Comment: </label><textarea name="custom" id="custom" maxlength="255" rows="4">Please specify your shirt size :-)</textarea> <span id="custom_size">0 / 255</span>
+		<label for="custom">Comment: </label><textarea name="custom" id="custom" maxlength="255" rows="4"></textarea> <span id="custom_size">0 / 255</span>
 		<span class="help-block">(A specific role? A wished team ? any food restriction ? a remark? max. 255 characters)</span>
 		
 		<input type="hidden" name="on0" value="Tarif"/><label for="os0">Fees:</label><select name="os0" id="os0">
@@ -284,12 +296,6 @@ The "Avenue de la Fonte" is a pedestrian street but you can drive through it to 
 		</p>
 		
 		<p>Press representatives are welcomed anytime during the event (please notify your presence <a id="melcontact" href="#">by e-mail</a>).</p>
-
-						<h3>Early birds!</h3>
-		<p>
-		Register before August 1st to have a chance to win the book Game Jam Survival Guide by Christer Kaitila! The book will be given away to a random participant who registered before that date.
-		</p>
-		<p><a href="http://www.packtpub.com/game-jam-survival-guide/book"><img src="img/book.jpg" width="200" /></a></p>
 		
 		
 		
@@ -323,7 +329,7 @@ The "Avenue de la Fonte" is a pedestrian street but you can drive through it to 
 
 		<hr>
 		<footer>
-			<p>© COIN 2014</p>
+			<p>© COIN 2015</p>
 		</footer>
 	</div>
  	<script src="js/jquery-1.10.1.min.js"></script>
