@@ -154,7 +154,7 @@ The building is adapted to people with reduced mobility.</p>
 		<br/>
 		The BBQ Game Jam being a more relax event than other bigger game jams, it is a good opportunity to discover what a game jam is if you are new to the concept.<br/>
 		<br/>
-		Open roles are : coders, illustrators, game designers and sound designers.		
+		Open roles are : coders, illustrators, game designers and musicians.		
 		</p>
 		</div>
 

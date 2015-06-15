@@ -153,7 +153,7 @@ Le bâtiment est adapté aux personnes à mobilité réduite.</p>
 		<br/>
 		La BBQ Game Jam étant un événement plus relax que les plus grosses game jam, il s'agit du meilleur moment pour découvrir le concept en douceur et se réunir autour d'un BBQ.<br/>
 		<br/>
-		Les profils ouverts sont : codeurs, illustrateurs, game designers et sound designers.<br />
+		Les profils ouverts sont : codeurs, illustrateurs, game designers, et musiciens.<br />
 		<br />
 		Besoin de plus d'arguments pour te convaincre ? Tu peux lire ce <a href="http://blogs.wefrag.com/mrhelmut/2013/01/29/global-game-jam-2013-prends-ta-claque/">compte-rendu de la Global Game Jam</a> et si tu es toujours indécis voici <a href="http://blogs.wefrag.com/mrhelmut/2012/11/26/il-ne-faut-pas-avoir-peur-dune-game-jam/">pourquoi il ne faut pas avoir peur d'une game jam</a>. 
 		</p>
