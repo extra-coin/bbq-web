@@ -33,54 +33,39 @@ ul.nav img {
 }
 
 #technoportlogo {
-	width: 30%;
+	width: 18%;
 	margin-right: 2%;
 }
 
-#insydelabslogo {
-	width: 23%;
-}
+
 
 #lilalogo {
-	width: 25%;
+	width: 18%;
 	margin-right: 2%;
 }
 
 #rockhallogo {
-	width: 12%;
+	width: 9%;
 	margin-right: 2%;
 }
 
 #blidalogo {
-	width: 10%;
+	width: 9%;
 	margin-right: 2%;
 }
 
-
-#unitylogo {
-	width: 20%;
+#hack4kidslogo {
+	width: 9%;
 	margin-right: 2%;
 }
 
-#saturnlogo {
-	width: 25%;
-	margin-right: 2%;
-}		
 
 #coinlogo { 
-	width: 30%;
+	width: 18%;
 	margin-right: 2%;
 }
 
-#githublogo { 
-	width: 20%;
-	margin-right: 2%;
-}
 
-#e4slogo {
-	width: 30%;
-	margin-right: 2%;
-}
 
 .llab {
 	font-size: 21px;
@@ -112,21 +97,38 @@ span#mailmsg span.correction {
 
 @media screen and (min-width: 979px) {
 	#technoportlogo {
-		width: 17%;
-		margin-right: 1%;
+		width: 12%;
+		margin-right: 2%;
 	}
+
+
+
+	#lilalogo {
+		width: 12%;
+		margin-right: 2%;
+	}
+
+	#rockhallogo {
+		width: 7%;
+		margin-right: 2%;
+	}
+
+	#blidalogo {
+		width: 5%;
+		margin-right: 2%;
+	}
+
+	#hack4kidslogo {
+		width: 7%;
+		margin-right: 2%;
+	}
+
 
 	#coinlogo { 
-		width: 17%;
-		margin-right: 1%;
+		width: 12%;
+		margin-right: 2%;
 	}
 
-	#e4slogo {
-		width: 16%;	
-	}	
-	#insydelabslogo {
-		width: 23%;	
-	}	
 }
 
 @media screen and (max-width: 979px) {

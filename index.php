@@ -56,7 +56,7 @@
 		<a href="http://tcrm-blida.com" title="Tcrm-Blida"><img id="blidalogo" src="img/logoblida.jpg" alt="Blida" /></a>
 		<a href="http://www.cr.rockhal.lu/"><img src="img/logo_rockhal.png" id="rockhallogo" alt="Rockhal Music &amp; Resources" /></a>
 		<a href="http://www.promotechlabs.com/en/partnership/lila-project/"><img id="lilalogo"src="img/LILA_LOGO_NWEIVB_V1.gif" alt="LILA logo"/></a>
-
+		<a href="https://hack4kids.lu/"><img src="img/logo_hack4kids.png" id="hack4kidslogo" alt="hack4kids" /></a>
 	</div>
       </div>	
 
