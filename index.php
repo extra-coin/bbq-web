@@ -208,7 +208,7 @@ Le bâtiment est adapté aux personnes à mobilité réduite.</p>
 			<input type="hidden" name="on4" value="E-Mail"/><label for="os4">E-Mail * :</label><input type="text" name="os4" id="os4" maxlength="200" size="44"/> <span id="mailmsg"> </span><br />
 		
 		<div id="participant_part">
-		<input type="hidden" name="on6" value="Lieu"/><select name="os6" style="display:none;">
+		<input type="hidden" name="on6" value="Lieu"/><label for="os6">Lieu :</label><select name="os6" ">
 		<?php if ($current_BBQ_FR < $max_BBQ_FR) { ?>
 			<option value="Blida" selected>TCRM-Blida (Metz)</option>
 		<?php } if ($current_BBQ_LU < $max_BBQ_LU) { ?>

@@ -208,7 +208,7 @@ The building is adapted to people with reduced mobility.</p>
 			<input type="hidden" name="on4" value="E-Mail"/><label for="os4">Mail *:</label><input type="text" name="os4" id="os4" maxlength="200" size="44"/>  <span id="mailmsg"> </span><br />
 		
 		<div id="participant_part">
-		<input type="hidden" name="on6" value="Site"/><select name="os6" id="os6" style="display:none;">
+		<input type="hidden" name="on6" value="Site"/><label for="os6">Site:</label><select name="os6" id="os6" >
 		<?php if ($current_BBQ_FR < $max_BBQ_FR) { ?>
 			<option value="Blida" selected>TCRM-Blida (Metz)</option>
 		<?php } if ($current_BBQ_LU < $max_BBQ_LU) { ?>
