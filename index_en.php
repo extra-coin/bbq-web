@@ -58,6 +58,7 @@
 		<a href="http://tcrm-blida.com" title="Tcrm-Blida"><img id="blidalogo" src="img/logoblida.jpg" alt="Blida" /></a>
 		<a href="http://www.cr.rockhal.lu/"><img src="img/logo_rockhal.png" id="rockhallogo" alt="Rockhal Music &amp; Resources" /></a>
 		<a href="http://www.promotechlabs.com/en/partnership/lila-project/"><img id="lilalogo"src="img/LILA_LOGO_NWEIVB_V1.gif" alt="LILA logo"/></a>
+		<a href="https://hack4kids.lu/"><img src="img/logo_hack4kids.png" id="hack4kidslogo" alt="hack4kids" /></a>
 	</div>
       </div>	
 		
@@ -154,7 +155,7 @@ The building is adapted to people with reduced mobility.</p>
 		<br/>
 		The BBQ Game Jam being a more relax event than other bigger game jams, it is a good opportunity to discover what a game jam is if you are new to the concept.<br/>
 		<br/>
-		Open roles are : coders, illustrators, game designers and sound designers.		
+		Open roles are : coders, illustrators, game designers and musicians.		
 		</p>
 		</div>
 
@@ -180,8 +181,8 @@ The building is adapted to people with reduced mobility.</p>
 		<div class="row">
 			<div class="span6">
 					<p>
-		Remaining participant tickets : <strong><?php include("config.php"); echo ($max_BBQ-$current_BBQ)."/".$max_BBQ; ?></strong> <br />
-		Remaining visitor tickets : <strong><?php echo ($max_visitor-$current_visitor)."/".$max_visitor; ?></strong>
+		Remaining tickets in Esch-sur-Alzette: <strong><?php include("config.php"); echo ($max_BBQ_LU-$current_BBQ_LU)."/".$max_BBQ_LU; ?></strong> <br />
+		Remaining tickets in Metz: <strong><?php echo ($max_BBQ_FR-$current_BBQ_FR)."/".$max_BBQ_FR; ?></strong>
 		</p>
 		<h3>Fees</h3>	
 		<p>
@@ -195,7 +196,7 @@ The building is adapted to people with reduced mobility.</p>
 		
 						<?php if ($registration_open == false) { ?>
 		<p>Too late, registration are close for this edition.</p>
-				<?php }else if ($current_BBQ < $max_BBQ) { ?>
+				<?php }else if ($current_BBQ_LU < $max_BBQ_LU && $current_BBQ_FR < $max_BBQ_FR) { ?>
 		
 		
 		<p>Online registration is mandatory and must be done before august 30 through this form:</p>
@@ -207,9 +208,12 @@ The building is adapted to people with reduced mobility.</p>
 			<input type="hidden" name="on4" value="E-Mail"/><label for="os4">Mail *:</label><input type="text" name="os4" id="os4" maxlength="200" size="44"/>  <span id="mailmsg"> </span><br />
 		
 		<div id="participant_part">
-		<input type="hidden" name="on6" value="Catégorie"/><select name="os6" id="os6" style="display:none;">
-			<option value="Jeux vidéo" selected>Jeux vidéo</option>
-			<option value="Visiteur">Visiteur</option>
+		<input type="hidden" name="on6" value="Site"/><label for="os6">Site:</label><select name="os6" id="os6" >
+		<?php if ($current_BBQ_FR < $max_BBQ_FR) { ?>
+			<option value="Blida" selected>TCRM-Blida (Metz)</option>
+		<?php } if ($current_BBQ_LU < $max_BBQ_LU) { ?>
+			<option value="Technoport">Technoport (Esch-sur-Alzette)</option>
+		<?php } ?>
 		</select>
 		<input type="hidden" name="on1" value="Rôle"/><label for="os1">Role:</label><select name="os1" id="os1">
 			<option value="Développeur">Developer</option>

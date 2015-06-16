@@ -56,7 +56,7 @@
 		<a href="http://tcrm-blida.com" title="Tcrm-Blida"><img id="blidalogo" src="img/logoblida.jpg" alt="Blida" /></a>
 		<a href="http://www.cr.rockhal.lu/"><img src="img/logo_rockhal.png" id="rockhallogo" alt="Rockhal Music &amp; Resources" /></a>
 		<a href="http://www.promotechlabs.com/en/partnership/lila-project/"><img id="lilalogo"src="img/LILA_LOGO_NWEIVB_V1.gif" alt="LILA logo"/></a>
-
+		<a href="https://hack4kids.lu/"><img src="img/logo_hack4kids.png" id="hack4kidslogo" alt="hack4kids" /></a>
 	</div>
       </div>	
 
@@ -153,7 +153,7 @@ Le bâtiment est adapté aux personnes à mobilité réduite.</p>
 		<br/>
 		La BBQ Game Jam étant un événement plus relax que les plus grosses game jam, il s'agit du meilleur moment pour découvrir le concept en douceur et se réunir autour d'un BBQ.<br/>
 		<br/>
-		Les profils ouverts sont : codeurs, illustrateurs, game designers et sound designers.<br />
+		Les profils ouverts sont : codeurs, illustrateurs, game designers, et musiciens.<br />
 		<br />
 		Besoin de plus d'arguments pour te convaincre ? Tu peux lire ce <a href="http://blogs.wefrag.com/mrhelmut/2013/01/29/global-game-jam-2013-prends-ta-claque/">compte-rendu de la Global Game Jam</a> et si tu es toujours indécis voici <a href="http://blogs.wefrag.com/mrhelmut/2012/11/26/il-ne-faut-pas-avoir-peur-dune-game-jam/">pourquoi il ne faut pas avoir peur d'une game jam</a>. 
 		</p>
@@ -182,8 +182,8 @@ Le bâtiment est adapté aux personnes à mobilité réduite.</p>
 		<div class="row">
 			<div class="span6">
 					<p>
-		Nombre de places pour participant restantes : <strong><?php include("config.php"); echo ($max_BBQ-$current_BBQ)."/".$max_BBQ; ?></strong> <br />
-		Nombre de places pour visiteur restantes : <strong><?php echo ($max_visitor-$current_visitor)."/".$max_visitor; ?></strong>
+		Nombre de places restantes à Esch-sur-Alzette: <strong><?php include("config.php"); echo ($max_BBQ_LU-$current_BBQ_LU)."/".$max_BBQ_LU; ?></strong> <br />
+		Nombre de places restantes à Metz: <strong><?php echo ($max_BBQ_FR-$current_BBQ_FR)."/".$max_BBQ_FR; ?></strong>
 		</p>
 		<h3>Tarif</h3>	
 		<p>
@@ -197,7 +197,7 @@ Le bâtiment est adapté aux personnes à mobilité réduite.</p>
 		
 		<?php if ($registration_open == false) { ?>
 		<p>Trop tard, les inscriptions sont terminées pour cette année.</p>
-				<?php }else if ($current_BBQ < $max_BBQ) { ?>
+				<?php }else if ($current_BBQ_LU < $max_BBQ_LU && $current_BBQ_FR < $max_BBQ_FR) { ?>
 		
 		<p>L'inscription est obligatoire et doit se faire avant le 30 Août via le formulaire suivant&nbsp;:<br/>
 		
@@ -208,9 +208,12 @@ Le bâtiment est adapté aux personnes à mobilité réduite.</p>
 			<input type="hidden" name="on4" value="E-Mail"/><label for="os4">E-Mail * :</label><input type="text" name="os4" id="os4" maxlength="200" size="44"/> <span id="mailmsg"> </span><br />
 		
 		<div id="participant_part">
-		<input type="hidden" name="on6" value="Catégorie"/><select name="os6" style="display:none;">
-			<option value="Jeux vidéo" selected>Jeux vidéo</option>
-			<option value="Visiteur">Visiteur</option>
+		<input type="hidden" name="on6" value="Lieu"/><label for="os6">Lieu :</label><select name="os6" ">
+		<?php if ($current_BBQ_FR < $max_BBQ_FR) { ?>
+			<option value="Blida" selected>TCRM-Blida (Metz)</option>
+		<?php } if ($current_BBQ_LU < $max_BBQ_LU) { ?>
+			<option value="Technoport">Technoport (Esch-sur-Alzette)</option>
+		<?php } ?>
 		</select>
 		<input type="hidden" name="on1" value="Rôle"/><label for="os1">Rôle :</label><select name="os1" id="os1">
 			<option value="Développeur">Développeur</option>
