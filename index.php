@@ -182,8 +182,8 @@ Le bâtiment est adapté aux personnes à mobilité réduite.</p>
 		<div class="row">
 			<div class="span6">
 					<p>
-		Nombre de places pour participant restantes : <strong><?php include("config.php"); echo ($max_BBQ-$current_BBQ)."/".$max_BBQ; ?></strong> <br />
-		Nombre de places pour visiteur restantes : <strong><?php echo ($max_visitor-$current_visitor)."/".$max_visitor; ?></strong>
+		Nombre de places restantes à Esch-sur-Alzette: <strong><?php include("config.php"); echo ($max_BBQ_LU-$current_BBQ_LU)."/".$max_BBQ_LU; ?></strong> <br />
+		Nombre de places restantes à Metz: <strong><?php echo ($max_BBQ_FR-$current_BBQ_FR)."/".$max_BBQ_FR; ?></strong>
 		</p>
 		<h3>Tarif</h3>	
 		<p>
@@ -197,7 +197,7 @@ Le bâtiment est adapté aux personnes à mobilité réduite.</p>
 		
 		<?php if ($registration_open == false) { ?>
 		<p>Trop tard, les inscriptions sont terminées pour cette année.</p>
-				<?php }else if ($current_BBQ < $max_BBQ) { ?>
+				<?php }else if ($current_BBQ_LU < $max_BBQ_LU && $current_BBQ_FR < $max_BBQ_FR) { ?>
 		
 		<p>L'inscription est obligatoire et doit se faire avant le 30 Août via le formulaire suivant&nbsp;:<br/>
 		
@@ -208,9 +208,12 @@ Le bâtiment est adapté aux personnes à mobilité réduite.</p>
 			<input type="hidden" name="on4" value="E-Mail"/><label for="os4">E-Mail * :</label><input type="text" name="os4" id="os4" maxlength="200" size="44"/> <span id="mailmsg"> </span><br />
 		
 		<div id="participant_part">
-		<input type="hidden" name="on6" value="Catégorie"/><select name="os6" style="display:none;">
-			<option value="Jeux vidéo" selected>Jeux vidéo</option>
-			<option value="Visiteur">Visiteur</option>
+		<input type="hidden" name="on6" value="Lieu"/><select name="os6" style="display:none;">
+		<?php if ($current_BBQ_FR < $max_BBQ_FR) { ?>
+			<option value="Blida" selected>TCRM-Blida (Metz)</option>
+		<?php } if ($current_BBQ_LU < $max_BBQ_LU) { ?>
+			<option value="Technoport">Technoport (Esch-sur-Alzette)</option>
+		<?php } ?>
 		</select>
 		<input type="hidden" name="on1" value="Rôle"/><label for="os1">Rôle :</label><select name="os1" id="os1">
 			<option value="Développeur">Développeur</option>
