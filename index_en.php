@@ -263,7 +263,7 @@ The building is adapted to people with reduced mobility.</p>
 		<input type="hidden" name="option_select1" value="Membre COIN">
 		<input type="hidden" name="option_amount1" value="15.00">
 		<input type="hidden" name="option_index" value="0">
-		<input type="hidden" name="business" value="web-account@extra-coin.org">
+		<input type="hidden" name="business" value="web-account@extra-coin.fr">
 		<input type="hidden" name="lc" value="FR">
 		<input type="hidden" name="item_name" value="Inscription BBQ GJ">
 		<input type="hidden" name="button_subtype" value="services">
