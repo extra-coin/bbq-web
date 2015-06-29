@@ -22,6 +22,7 @@ p {text-align: justify; text-justify: newspaper;}
 
 #sponsorlogos {
 	/*float: right; */
+	text-align:right;
 }
 
 #eventdate {
