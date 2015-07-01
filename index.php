@@ -58,6 +58,7 @@
           <a href="http://www.promotechlabs.com/en/partnership/lila-project/"><img id="lilalogo"src="img/LILA_LOGO_NWEIVB_V1.gif" alt="LILA logo"/></a>
           <a href="https://hack4kids.lu/"><img src="img/logo_hack4kids.png" id="hack4kidslogo" alt="hack4kids" /></a>		  
 		  <a href="http://www.kenney.nl/"><img src="img/logo_full.png" id="kenneylogo" alt="Kenney" /></a>
+      <a href="http://www.jamtoday.eu"><img src="img/logo_jamtoday.png" id="jamtodaylogo" alt="JamToday" /></a>
         </div>
       </div>
 
