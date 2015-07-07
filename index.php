@@ -325,8 +325,7 @@
       <p><a href="https://twitter.com/fablablux"><img src="img/fablablux.png" alt="FablabLux"> Fablablux</a>, le fabuleux fablab luxembourgeois</p>
       <p><a href="http://www.gamesidestory.com/"><img src="img/gamesidestory.jpg" width="48" alt="GameSideStory"> Gamesidestory</a>, le site de news sur les jeux indé qui nous suit depuis le début.</p>
 	  <p><a href="http://www.cr.rockhal.lu/"><img src="img/logo_rockhal.png" width="48" alt="Rockhal"> Rockhal "Music &amp; Resources"</a>, qui nous initie au monde de la musique.</p>
-	  <p><img src="img/post.png" width="80" ></p>
-	  <p><img src="img/Logo_fr-GB_CMYK_LOGO.jpg" width="80" ></p>
+					  <p><img src="img/post.png" width="160" ><img src="img/Logo_fr-GB_CMYK_LOGO.jpg" width="160" ></p>
     </div>
   </div>
 
