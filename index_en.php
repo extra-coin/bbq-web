@@ -330,6 +330,8 @@ The building is adapted to people with reduced mobility.</p>
 				<p><a href="https://twitter.com/fablablux"><img src="img/fablablux.png" alt="FablabLux"> Fablablux</a>, the fabulous luxembourgish fablab</p>
 				<p><a href="http://www.gamesidestory.com/"><img src="img/gamesidestory.jpg" width="48" alt="GameSideStory"> Gamesidestory</a>, the best indie games news website we know.</p>
 				<p><a href="http://www.cr.rockhal.lu/"><img src="img/logo_rockhal.png" width="48" alt="Rockhal"> Rockhal "Music &amp; Resources"</a>, that opened us the doors of the music world.</p>
+					  <p><img src="img/post.png" width="80" ></p>
+				<p><img src="img/Logo_fr-GB_CMYK_LOGO.jpg" width="80" ></p>
 			</div>
 		</div>
 
