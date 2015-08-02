@@ -3,7 +3,7 @@ $config = parse_ini_file('../../secret.ini',true);
 $link = mysql_connect($config['database']['host'], $config['database']['username'], $config['database']['password']);
 mysql_select_db($config['database']['name'], $link);
 
-$max_BBQ_LU = 50;
+$max_BBQ_LU = 65;
 $max_BBQ_FR = 50;
 
 $query = "SELECT * FROM `" . $config['database']['table']['bbq']. "` WHERE `categ` = \"Technoport\"" ;
