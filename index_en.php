@@ -48,7 +48,7 @@
 		<h1>BBQ Game Jam 3</h1>
 		
 		<h2><span id="eventdate">September 5-6, 2015</span> <a href="#inscription" class="btn btn-primary btn-large" id="btnreg">Register!</a></h2>      	
-        <p>This summer, we invite all creative people, graphical designers, musicians, developers, hackers to participate in a relaxed atmosphere to the Barbecue Game Jam: one day of video game creation accompanied with sun* and grilled stuff! (veggie-friendly =P) This year, you will be able to attend to this game jam on the location of your choice: <a href="http://www.technoport.lu/">Technoport in Esch-sur-Alzette, Luxembourg</a> or <a href="http://tcrm-blida.com/">TCRM-Blida in Metz, France</a>.
+        <p>This summer, we invite all creative people, graphical designers, musicians, developers, hackers to participate in a relaxed atmosphere to the Barbecue Game Jam: one day of video game creation accompanied with sun* and grilled stuff! (veggie-friendly =P) This year, you will be able to attend to this game jam on the location of your choice: <a href="http://www.technoport.lu/">Technoport in Esch-sur-Alzette, Luxembourg</a>, <a href="http://tcrm-blida.com/">TCRM-Blida in Metz, France</a> or <a href="http://www.werk1muenchen.de">Werk1 in Munich, Germany</a>.
 
 
         </p>      
@@ -184,7 +184,8 @@ The building is adapted to people with reduced mobility.</p>
 			<div class="span6">
 					<p>
 		Remaining tickets in Esch-sur-Alzette: <strong><?php include("config.php"); echo ($max_BBQ_LU-$current_BBQ_LU)."/".$max_BBQ_LU; ?></strong> <br />
-		Remaining tickets in Metz: <strong><?php echo ($max_BBQ_FR-$current_BBQ_FR)."/".$max_BBQ_FR; ?></strong>
+		Remaining tickets in Metz: <strong><?php echo ($max_BBQ_FR-$current_BBQ_FR)."/".$max_BBQ_FR; ?></strong> <br />
+		The registration for Munich is <a href="http://www.meetup.com/munich-indie/events/224393863/">HERE</a>
 		</p>
 		<h3>Fees</h3>	
 		<p>

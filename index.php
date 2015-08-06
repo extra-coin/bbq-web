@@ -48,7 +48,7 @@
          <h1>BBQ Game Jam 3</h1>
 
          <h2><span id="eventdate">5-6 septembre 2015</span> <a href="#inscription" class="btn btn-primary btn-large" id="btnreg">Je m'inscris!</a></h2>
-         <p>Cet été, nous invitons tous les créatifs, qu'ils soient musiciens, graphistes, développeurs, bidouilleurs à participer dans une ambiance décontractée à la Barbecue Game Jam&nbsp;: une journée de création de jeux&nbsp;vidéo agrémentée de soleil et de grillades&nbsp;! (veggie-friendly&nbsp;=P) Cette année, vous aurez la possibilité de participer à l'événement sur 2 sites : au <a href="http://www.technoport.lu/">Technoport à Esch-sur-Alzette, Luxembourg</a> ou à <a href="http://tcrm-blida.com/">TCRM-Blida à Metz, France</a>.
+         <p>Cet été, nous invitons tous les créatifs, qu'ils soient musiciens, graphistes, développeurs, bidouilleurs à participer dans une ambiance décontractée à la Barbecue Game Jam&nbsp;: une journée de création de jeux&nbsp;vidéo agrémentée de soleil et de grillades&nbsp;! (veggie-friendly&nbsp;=P) Cette année, vous aurez la possibilité de participer à l'événement sur 2 sites : au <a href="http://www.technoport.lu/">Technoport à Esch-sur-Alzette, Luxembourg</a>, <a href="http://tcrm-blida.com/">TCRM-Blida à Metz, France</a> ou à <a href="http://www.werk1muenchen.de">Werk1 à Munich, Allemagne</a>.
          </p>
          <div id="sponsorlogos">
           <a href="http://www.technoport.lu" title="Technoport"><img id="technoportlogo" src="img/technoport.png" alt="Technoport" /></a>
@@ -184,7 +184,8 @@
              <div class="span6">
                <p>
                 Nombre de places restantes à Esch-sur-Alzette: <strong><?php include("config.php"); echo ($max_BBQ_LU-$current_BBQ_LU)."/".$max_BBQ_LU; ?></strong> <br />
-                Nombre de places restantes à Metz: <strong><?php echo ($max_BBQ_FR-$current_BBQ_FR)."/".$max_BBQ_FR; ?></strong>
+                Nombre de places restantes à Metz: <strong><?php echo ($max_BBQ_FR-$current_BBQ_FR)."/".$max_BBQ_FR; ?></strong> <br />
+                Les inscriptions pour Munich se font <a href="http://www.meetup.com/munich-indie/events/224393863/">ICI</a>
               </p>
               <h3>Tarif</h3>
               <p>
