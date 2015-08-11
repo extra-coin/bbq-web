@@ -202,7 +202,8 @@ The building is adapted to people with reduced mobility.</p>
 				<?php }else if ($current_BBQ_LU < $max_BBQ_LU && $current_BBQ_FR < $max_BBQ_FR) { ?>
 		
 		
-		<p>Online registration is mandatory and must be done before august 30 through this form:</p>
+		<p>Online registration is mandatory and must be done before august 30 through this form:<br />
+		The registration for Munich is <a href="http://www.meetup.com/munich-indie/events/224393863/">HERE</a></p>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" name="myPayPal" id="myPayPal">
 		<fieldset>
@@ -228,7 +229,7 @@ The building is adapted to people with reduced mobility.</p>
 <br />
 		<input type="hidden" name="on5" value="Téléphone"/><label for="os5">Phone :</label><input type="text" name="os5" id="os5" maxlength="200" size="44"/>
 		<span class="help-block">(can be useful in case of problem)</span>
-		<label for="custom">Comment: </label><textarea name="custom" id="custom" maxlength="255" rows="4"></textarea> <span id="custom_size">0 / 255</span>
+		<label for="custom">Comment: </label><textarea name="custom" id="custom" maxlength="255" rows="4">Please specify your shirt size. :)</textarea> <span id="custom_size">0 / 255</span>
 		<span class="help-block">(A specific role? A wished team ? any food restriction ? a remark? max. 255 characters)</span>
 		
 		<input type="hidden" name="on0" value="Tarif"/><label for="os0">Fees:</label><select name="os0" id="os0">
