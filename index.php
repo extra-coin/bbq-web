@@ -48,7 +48,7 @@
          <h1>BBQ Game Jam 3</h1>
 
          <h2><span id="eventdate">5-6 septembre 2015</span> <a href="#inscription" class="btn btn-primary btn-large" id="btnreg">Je m'inscris!</a></h2>
-         <p>Cet été, nous invitons tous les créatifs, qu'ils soient musiciens, graphistes, développeurs, bidouilleurs à participer dans une ambiance décontractée à la Barbecue Game Jam&nbsp;: une journée de création de jeux&nbsp;vidéo agrémentée de soleil et de grillades&nbsp;! (veggie-friendly&nbsp;=P) Cette année, vous aurez la possibilité de participer à l'événement sur 2 sites : au <a href="http://www.technoport.lu/">Technoport à Esch-sur-Alzette, Luxembourg</a>, <a href="http://tcrm-blida.com/">TCRM-Blida à Metz, France</a> ou à <a href="http://www.werk1muenchen.de">Werk1 à Munich, Allemagne</a>.
+         <p>Cet été, nous invitons tous les créatifs, qu'ils soient musiciens, graphistes, développeurs, bidouilleurs à participer dans une ambiance décontractée à la Barbecue Game Jam&nbsp;: une journée de création de jeux&nbsp;vidéo agrémentée de soleil et de grillades&nbsp;! (veggie-friendly&nbsp;=P) Cette année, vous aurez la possibilité de participer à l'événement sur 3 sites : au <a href="http://www.technoport.lu/">Technoport à Esch-sur-Alzette, Luxembourg</a>, <a href="http://tcrm-blida.com/">TCRM-Blida à Metz, France</a> ou à <a href="http://www.werk1muenchen.de">Werk1 à Munich, Allemagne</a>.
          </p>
          <div id="sponsorlogos">
           <a href="http://www.technoport.lu" title="Technoport"><img id="technoportlogo" src="img/technoport.png" alt="Technoport" /></a>
@@ -202,6 +202,7 @@
                 <?php }else if ($current_BBQ_LU < $max_BBQ_LU && $current_BBQ_FR < $max_BBQ_FR) { ?>
 
                 <p>L'inscription est obligatoire et doit se faire avant le 30 Août via le formulaire suivant&nbsp;:<br/>
+				Les inscriptions pour Munich se font <a href="http://www.meetup.com/munich-indie/events/224393863/">ICI</a>
 
                   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" name="myPayPal" id="myPayPal">
                     <fieldset>
@@ -227,7 +228,7 @@
                   <br />
                   <input type="hidden" name="on5" value="Téléphone"/><label for="os5">Téléphone :</label><input type="text" name="os5" id="os5" maxlength="200" size="44"/>
                   <span class="help-block">(pratique en cas de pépin)</span>
-                  <label for="custom">Commentaire : </label><textarea name="custom" id="custom" maxlength="255" rows="4"></textarea> <span id="custom_size">0 / 255</span>
+                  <label for="custom">Commentaire : </label><textarea name="custom" id="custom" maxlength="255" rows="4">Merci de nous dire votre taille de t-shirt. :)</textarea> <span id="custom_size">0 / 255</span>
                   <span class="help-block">(Un rôle spécifique ? Un souhait d'équipe ? Des restrictions alimentaires ? Une remarque ? 255 caractères max)</span>
 
                   <input type="hidden" name="on0" value="Tarif"/><label for="os0">Tarif (pizza et BBQ inclus !) :</label><select name="os0" id="os0">
