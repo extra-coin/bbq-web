@@ -96,7 +96,7 @@
           <h3 class="span12">Où ?</h3>
         </div>
         <div class="row">
-          <div class="span6">
+          <div class="span4">
             <address>
              <strong>Technoport Luxembourg</strong><br />
              9 avenue des Hauts-Fourneaux<br />
@@ -108,7 +108,7 @@
             Le bâtiment est adapté aux personnes à mobilité réduite.</p>
           </div>
 
-          <div class="span6">
+          <div class="span4">
             <address>
               <strong>TCRM-Blida</strong><br />
               7 avenue de Blida<br />
@@ -117,6 +117,16 @@
             </address>
             <a href="https://goo.gl/maps/w3fq9">carte</a>
             <p>À 15 min à pied de la gare de Metz. En Mettis, ligne A, arrêt Pontiffroy. À 1h20 de Paris en train. Des places de parking gratuites sont à disposition le long du boulevard.</p>
+          </div>
+		  
+		 <div class="span4">
+            <address>
+              <strong>Werk1</strong><br />
+              Grafingerstrasse 6<br />
+              81929 Munich<br />
+              Allemagne<br />
+            </address>
+            <a href="http://maps.google.com/maps?f=q&hl=en&q=Grafingerstrasse+6%2C+M%C3%BCnchen%2C+de">carte</a>
           </div>
         </div>
         <div class="row">
