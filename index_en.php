@@ -95,7 +95,7 @@
 		<h3>Where?</h3>
 		<div class="row">
 
-		<div class="span6">
+		<div class="span4">
 
 
 		<address>
@@ -110,7 +110,7 @@ The building is adapted to people with reduced mobility.</p>
 		</div>
 
 
-		<div class="span6">
+		<div class="span4">
 		<address>
 			<strong>TCRM-Blida</strong><br />
 		7 avenue de Blida<br />
@@ -120,6 +120,16 @@ The building is adapted to people with reduced mobility.</p>
 		<a href="https://goo.gl/maps/w3fq9">map</a>
 		<p>15 minutes away from the train station. By tram ("Mettis"), line A, "Pontiffroy" stop. 1 hour and 20 minutes away from Paris by train.  Free parking lot in front of the building.</p>
 		</div>
+		
+		 <div class="span4">
+            <address>
+              <strong>Werk1</strong><br />
+              Grafingerstrasse 6<br />
+              81929 Munich<br />
+              Germany<br />
+            </address>
+            <a href="http://maps.google.com/maps?f=q&hl=en&q=Grafingerstrasse+6%2C+M%C3%BCnchen%2C+de">map</a>
+          </div>
 	</div>
 
 		<h3>When?</h3>
