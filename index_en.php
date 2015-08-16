@@ -209,7 +209,7 @@ The building is adapted to people with reduced mobility.</p>
 		
 						<?php if ($registration_open == false) { ?>
 		<p>Too late, registration are close for this edition.</p>
-				<?php }else if ($current_BBQ_LU < $max_BBQ_LU && $current_BBQ_FR < $max_BBQ_FR) { ?>
+				<?php }else if ($current_BBQ_LU < $max_BBQ_LU || $current_BBQ_FR < $max_BBQ_FR) { ?>
 		
 		
 		<p>Online registration is mandatory and must be done before august 30 through this form:<br />
