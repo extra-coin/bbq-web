@@ -209,7 +209,7 @@
 
                 <?php if ($registration_open == false) { ?>
                 <p>Trop tard, les inscriptions sont terminées pour cette année.</p>
-                <?php }else if ($current_BBQ_LU < $max_BBQ_LU && $current_BBQ_FR < $max_BBQ_FR) { ?>
+                <?php }else if ($current_BBQ_LU < $max_BBQ_LU || $current_BBQ_FR < $max_BBQ_FR) { ?>
 
                 <p>L'inscription est obligatoire et doit se faire avant le 30 Août via le formulaire suivant&nbsp;:<br/>
 				Les inscriptions pour Munich se font <a href="http://www.meetup.com/munich-indie/events/224393863/">ICI</a>
