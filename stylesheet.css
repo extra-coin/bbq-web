@@ -99,21 +99,21 @@ ul.nav img {
 	margin-top:30px;
 }
 
-	#jamtodaylogo { 
-		width: 10%;
-		margin-right: 2%;
-	}
-	
-	#fablablogo { 
-		width: 10%;
-		margin-right: 2%;
-	}
+#jamtodaylogo { 
+	width: 10%;
+	margin-right: 2%;
+}
 
-	#kenneylogo { 
-		width: 20%;
-		margin-right: 2%;
-		margin-bottom: 20px;
-	}
+#fablablogo { 
+	width: 10%;
+	margin-right: 2%;
+}
+
+#kenneylogo { 
+	width: 20%;
+	margin-right: 2%;
+	margin-bottom: 20px;
+}
 
 #postlogodwn {
 	width: 20%;
@@ -174,7 +174,17 @@ span#mailmsg span.correction {
 		padding: 30px;
 	}
 }
+@media screen and (min-width: 980px) and (max-width: 1199px) {
+	#backhome {
+		display:none;
+	}
+}
 
+@media screen and (min-width: 1200px) {
+	.hero-unit {
+		min-height: 350px;
+	}
+}
 
 
 @media screen and (max-width: 768px) {

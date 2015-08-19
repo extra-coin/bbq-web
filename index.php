@@ -22,7 +22,7 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="brand" href="#accueil">BBQ Game Jam</a>
+            <a class="brand" id="backhome" href="#accueil">BBQ Game Jam</a>
             <div class="nav-collapse collapse">
               <ul class="nav">
                 <li class="active"><a href="#accueil">Accueil</a></li>
