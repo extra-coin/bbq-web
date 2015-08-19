@@ -13,7 +13,7 @@ p {text-align: justify; text-justify: newspaper;}
 
 .hero-unit {
 	margin-bottom: 6px;
-
+	min-height:300px;
 }
 
 .hero-unit h1 {
@@ -22,7 +22,7 @@ p {text-align: justify; text-justify: newspaper;}
 
 #sponsorlogos {
 	/*float: right; */
-	text-align:right;
+	/*text-align:right;*/
 }
 
 #eventdate {
@@ -34,7 +34,7 @@ ul.nav img {
 }
 
 #technoportlogo {
-	width: 18%;
+	width: 23%;
 	margin-right: 2%;
 }
 
@@ -46,36 +46,98 @@ ul.nav img {
 }
 
 #rockhallogo {
-	width: 9%;
+	width: 15%;
 	margin-right: 2%;
 }
 
 #blidalogo {
-	width: 9%;
+	width: 15%;
 	margin-right: 2%;
 }
 
+#werk1logo {
+	width: 25%;
+}
+
 #hack4kidslogo {
-	width: 9%;
+	width: 15%;
 	margin-right: 2%;
 }
 
 
 #coinlogo { 
-	width: 18%;
+	width: 23%;
 	margin-right: 2%;
 }
 
+#codeandweblogo {
+	width: 25%;
+	margin-left:2%;
+	margin-bottom: 20px;
+	background-color: black;
+}
+
+
+#postlogo { 
+	width: 80%;
+	margin-right: 2%;
+}
+#cclogo { 
+	width: 30%;
+	margin-right: 2%;
+	margin-top:30px;
+}
+#bceelogo { 
+	width: 35%;
+	margin-right: 10%;
+	margin-top:30px;
+}
+
+#lilalogotop { 
+	width: 80%;
+	margin-right: 2%;
+	margin-top:30px;
+}
+
 	#jamtodaylogo { 
-		width: 5%;
+		width: 10%;
 		margin-right: 2%;
 	}
 	
-	#kenneylogo { 
-		width: 12%;
+	#fablablogo { 
+		width: 10%;
 		margin-right: 2%;
 	}
 
+	#kenneylogo { 
+		width: 20%;
+		margin-right: 2%;
+		margin-bottom: 20px;
+	}
+
+#postlogodwn {
+	width: 20%;
+	margin-right:2%;
+	margin-bottom: 20px;
+}
+
+#bceelogodwn {
+	width: 25%;
+	margin-right:2%;
+	margin-bottom: 20px;
+}
+
+#cclogodwn {
+	width:20%;
+	margin-right:2%;
+	margin-bottom: 20px;
+}
+
+#lilalogodwn {
+	width:20%;
+	margin-right:2%;
+	margin-bottom: 20px;
+}
 
 .llab {
 	font-size: 21px;
@@ -105,51 +167,7 @@ span#mailmsg span.correction {
     padding: 30px;	
 }
 
-@media screen and (min-width: 979px) {
-	#technoportlogo {
-		width: 12%;
-		margin-right: 2%;
-	}
 
-
-
-	#lilalogo {
-		width: 12%;
-		margin-right: 2%;
-	}
-
-	#rockhallogo {
-		width: 7%;
-		margin-right: 2%;
-	}
-
-	#blidalogo {
-		width: 5%;
-		margin-right: 2%;
-	}
-
-	#hack4kidslogo {
-		width: 7%;
-		margin-right: 2%;
-	}
-
-
-	#coinlogo { 
-		width: 12%;
-		margin-right: 2%;
-	}
-
-	#jamtodaylogo { 
-		width: 4%;
-		margin-right: 2%;
-	}
-	
-	#kenneylogo { 
-		width: 12%;
-		margin-right: 2%;
-	}
-
-}
 
 @media screen and (max-width: 979px) {
 	.hero-unit {
@@ -157,11 +175,7 @@ span#mailmsg span.correction {
 	}
 }
 
-@media screen and (min-width: 590px) and (max-width: 710px) {
-	#logo {
-		float: none;
-	}
-}
+
 
 @media screen and (max-width: 768px) {
 	#logo {
@@ -177,5 +191,43 @@ span#mailmsg span.correction {
 		padding-top: 10px;
 	}
 
+	#postlogo { 
+		width: 20%;
+		margin-right: 2%;
+	}
+	#cclogo { 
+		width: 20%;
+		margin-right: 2%;
+	}
+	#bceelogo { 
+		width: 20%;
+		margin-right: 10%;
+	}
+
+	#lilalogotop { 
+		width: 20%;
+		margin-right: 2%;
+	}
+
 }
 
+@media screen and (max-width: 500px) {
+	#postlogo { 
+		width: 40%;
+		margin-right: 2%;
+	}
+	#cclogo { 
+		width: 40%;
+		margin-right: 2%;
+	}
+	#bceelogo { 
+		width: 40%;
+		margin-right: 10%;
+	}
+
+	#lilalogotop { 
+		width: 40%;
+		margin-right: 2%;
+	}
+
+}

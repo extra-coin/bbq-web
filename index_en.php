@@ -30,6 +30,7 @@
               <li><a href="#date-lieu">Location</a></li>
               <li><a href="#infos">More information</a></li>
               <li><a href="#inscription">Registration</a></li>
+              <li><a href="#sponsors">Sponsors</a></li>
               <li><a href="#contact">Contact and news</a></li>
             </ul>
             <ul class="nav pull-right">
@@ -49,28 +50,30 @@
 		
 		<h2><span id="eventdate">September 5-6, 2015</span> <a href="#inscription" class="btn btn-primary btn-large" id="btnreg">Register!</a></h2>      	
         <p>This summer, we invite all creative people, graphical designers, musicians, developers, hackers to participate in a relaxed atmosphere to the Barbecue Game Jam: one day of video game creation accompanied with sun* and grilled stuff! (veggie-friendly =P) This year, you will be able to attend to this game jam on the location of your choice: <a href="http://www.technoport.lu/">Technoport in Esch-sur-Alzette, Luxembourg</a>, <a href="http://tcrm-blida.com/">TCRM-Blida in Metz, France</a> or <a href="http://www.werk1muenchen.de">Werk1 in Munich, Germany</a>.
-
-
         </p>      
-	<div id="sponsorlogos">
-		<a href="http://www.technoport.lu" title="Technoport"><img id="technoportlogo" src="img/technoport.png" alt="Technoport" /></a>
-		<a href="http://www.extra-coin.org" title="COIN"><img id="coinlogo" src="img/coin-logo.png" alt="COIN" /></a>
-		<a href="http://tcrm-blida.com" title="Tcrm-Blida"><img id="blidalogo" src="img/logoblida.jpg" alt="Blida" /></a>
-		<a href="http://www.cr.rockhal.lu/"><img src="img/logo_rockhal.png" id="rockhallogo" alt="Rockhal Music &amp; Resources" /></a>
-		<a href="http://www.promotechlabs.com/en/partnership/lila-project/"><img id="lilalogo"src="img/LILA_LOGO_NWEIVB_V1.gif" alt="LILA logo"/></a>
-		<a href="https://hack4kids.lu/"><img src="img/logo_hack4kids.png" id="hack4kidslogo" alt="hack4kids" /></a>
-		<a href="http://www.kenney.nl/"><img src="img/logo_full.png" id="kenneylogo" alt="Kenney" /></a>
-      <a href="http://www.jamtoday.eu"><img src="img/logo_jamtoday.png" id="jamtodaylogo" alt="JamToday" /></a>
-	</div>
       </div>	
-		
-		
+
+		<div class="row">
+			<div class="span3">
+				<h3>Gold Sponsor</h3>
+				<a title="POST" href="http://www.post.lu"><img id="postlogo" src="img/post.png" alt="POST"/></a><br />
+			</div>
+			<div class="span6">
+				<h3>Silver Sponsors</h3>
+				<a title="BCEE" href="http://www.bcee.lu"><img id="bceelogo" src="img/Logo_fr-GB_CMYK_LOGO.jpg" alt="BCEE"/></a>
+				<a title="Chambre de Commerce" href="http://www.cc.lu/"><img id="cclogo" src="img/cdc_new_logo.png" alt="Chambre de Commerce" /></a>
+			</div>
+			<div class="span3">
+				<h3>Powered by</h3>
+				<a href="http://www.promotechlabs.com/en/partnership/lila-project/"><img id="lilalogotop"src="img/LILA_LOGO_NWEIVB_V1.gif" alt="LILA logo"/></a>
+			</div>
+		</div>
 	
 		<h2 id="concept">Concept</h2>
 
 		<div class="row">
 			<div class="span4">			
-			<h3>Game Jam ?</h3>
+			<h3>Game Jam?</h3>
 
 		<p>Gather video game creators, ranging from hobbyists to professionals. Mix everyone in teams. Wait for 24 to 72 hours and you will get innovative games and a great social experience.<br/>
 		A game jam is not a competition, but rather a moment of sharing passion, of learning, of innovation or of personal challenge, and above anything else an unforgettable moment.</p>
@@ -302,12 +305,6 @@ The building is adapted to people with reduced mobility.</p>
 
 
 		<div class="span6">
-			<!--
-				<h3>Fablab Access</h3>
-
-<p>Thanks to our partner <a href="http://fablablux.org">Fablab Luxembourg</a>, you will have access to a new augmented virtuality era! 	The Fablab will provide its equipment and expertise throughout the BBQ Game Jam. You can unleash your creativity, print your 3D models or try to integrate tangible elements in your gameplay!</p>	
-<p><a href="http://fablablux.org"><img src="img/3dprinter.jpg" width="200" /></a></p>
-		-->
 		<h3>Visitors and press</h3>
 		<p>
 		Visitors are welcomed starting sunday 2pm, with mandatory and free registration <a id="melcontact" href="#">by e-mail</a>. As visitor, you will be able to play the games created during the event.		
@@ -327,7 +324,25 @@ The building is adapted to people with reduced mobility.</p>
 		</div>
 
 
-
+		<div class="row">
+			<div class="span6">
+		<h2 id="sponsors">Sponsors</h2>
+		<a title="POST" href="http://www.post.lu"><img id="postlogodwn" src="img/post.png" alt="POST"/></a>
+		<a title="BCEE" href="http://www.bcee.lu"><img id="bceelogodwn" src="img/Logo_fr-GB_CMYK_LOGO.jpg" alt="BCEE"/></a>
+		<a title="Chambre de Commerce" href="http://www.cc.lu/"><img id="cclogodwn" src="img/cdc_new_logo.png" alt="Chambre de Commerce" />
+		<a href="http://www.promotechlabs.com/en/partnership/lila-project/"><img id="lilalogodwn" src="img/LILA_LOGO_NWEIVB_V1.gif" alt="LILA logo"/></a>
+		<a href="http://www.kenney.nl/"><img src="img/logo_full.png" id="kenneylogo" alt="Kenney" /></a>
+		<a href="http://www.codeandweb.com/"><img src="img/codeandweb.svg" id="codeandweblogo" alt="CodeAndWeb" /></a>
+		</div>
+			<div class="span6">
+				<h2>Partners</h2>
+		<a href="http://www.cr.rockhal.lu/"><img src="img/logo_rockhal.png" id="rockhallogo" alt="Rockhal Music &amp; Resources" /></a>
+		<a href="https://hack4kids.lu/"><img src="img/logo_hack4kids.png" id="hack4kidslogo" alt="hack4kids" /></a>
+     	<a href="http://www.jamtoday.eu"><img src="img/logo_jamtoday.png" id="jamtodaylogo" alt="JamToday" /></a>				
+		<a href="https://twitter.com/fablablux"><img src="img/fablablux.png" alt="FablabLux" id="fablablogo"></a>
+		<a href="http://www.gamesidestory.com/"><img src="img/gamesidestory.jpg" alt="GameSideStory"></a>
+			</div>
+		</div>
 
 		<div class="row">
 			<div class="span6">
@@ -337,12 +352,12 @@ The building is adapted to people with reduced mobility.</p>
 		Feel free to drop us specific questions <a id="melcontact" href="#">by e-mail</a>.<br /><br /></p>
 		</div>
 			<div class="span6">
-				<h2>Special thanks!</h2>
-				<p>We would like to thank our partners for their incredible help in the organization of this event!</p>
-				<p><a href="https://twitter.com/fablablux"><img src="img/fablablux.png" alt="FablabLux"> Fablablux</a>, the fabulous luxembourgish fablab</p>
-				<p><a href="http://www.gamesidestory.com/"><img src="img/gamesidestory.jpg" width="48" alt="GameSideStory"> Gamesidestory</a>, the best indie games news website we know.</p>
-				<p><a href="http://www.cr.rockhal.lu/"><img src="img/logo_rockhal.png" width="48" alt="Rockhal"> Rockhal "Music &amp; Resources"</a>, that opened us the doors of the music world.</p>
-					  <p><img src="img/post.png" width="160" ><img src="img/Logo_fr-GB_CMYK_LOGO.jpg" width="160" ></p>
+				<h2>Organizers</h2>
+				This event is organized by: <br />
+				<a href="http://www.technoport.lu" title="Technoport"><img id="technoportlogo" src="img/technoport.png" alt="Technoport" /></a>
+				<a href="http://www.extra-coin.org" title="COIN"><img id="coinlogo" src="img/coin-logo.png" alt="COIN" /></a>
+				<a href="http://tcrm-blida.com" title="Tcrm-Blida"><img id="blidalogo" src="img/logoblida.jpg" alt="Blida" /></a>
+				<a href="http://www.werk1muenchen.de/" title="Werk 1"><img id="werk1logo" src="img/logo-werk1.png" alt="Werk 1" /></a>
 			</div>
 		</div>
 
