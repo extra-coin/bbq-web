@@ -341,6 +341,7 @@ The building is adapted to people with reduced mobility.</p>
      	<a href="http://www.jamtoday.eu"><img src="img/logo_jamtoday.png" id="jamtodaylogo" alt="JamToday" /></a>				
 		<a href="https://twitter.com/fablablux"><img src="img/fablablux.png" alt="FablabLux" id="fablablogo"></a>
 		<a href="http://www.gamesidestory.com/"><img src="img/gamesidestory.jpg" alt="GameSideStory"></a>
+        <a href="http://www.games-bavaria.com/"><img src="img/gb_logo.png" id="gamesbavarialogo" alt="Games Bavaria"></a>
 			</div>
 		</div>
 

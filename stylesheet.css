@@ -59,6 +59,10 @@ ul.nav img {
 	width: 25%;
 }
 
+#gamesbavarialogo {
+	width: 35%;
+}
+
 #hack4kidslogo {
 	width: 15%;
 	margin-right: 2%;
@@ -102,11 +106,13 @@ ul.nav img {
 #jamtodaylogo { 
 	width: 10%;
 	margin-right: 2%;
+
 }
 
 #fablablogo { 
 	width: 10%;
 	margin-right: 2%;
+
 }
 
 #kenneylogo { 
