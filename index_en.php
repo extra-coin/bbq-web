@@ -62,6 +62,7 @@
 				<h3>Silver Sponsors</h3>
 				<a title="BCEE" href="http://www.bcee.lu"><img id="bceelogo" src="img/Logo_fr-GB_CMYK_LOGO.jpg" alt="BCEE"/></a>
 				<a title="Chambre de Commerce" href="http://www.cc.lu/"><img id="cclogo" src="img/cdc_new_logo.png" alt="Chambre de Commerce" /></a>
+				<a title="Sfeir" href="http://www.sfeir.com/index-en.html"><img id="sfeirlogo" src="img/logo_sfeir.png" alt="Sfeir" /></a>
 			</div>
 			<div class="span3">
 				<h3>Powered by</h3>
