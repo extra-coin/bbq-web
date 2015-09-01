@@ -87,18 +87,24 @@ ul.nav img {
 	margin-right: 2%;
 }
 #cclogo { 
-	width: 25%;
+	width: 40%;
 	margin-right: 2%;
 	margin-top:30px;
 }
 #bceelogo { 
-	width: 30%;
+	width: 40%;
 	margin-right: 2%;
 	margin-top:30px;
 }
 
 #sfeirlogo { 
-	width: 30%;
+	width: 35%;
+	margin-top:30px;
+	margin-right: 2%;
+}
+
+#juvalogo {
+	width: 40%;
 	margin-top:30px;
 }
 
