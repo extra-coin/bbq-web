@@ -110,8 +110,13 @@
 		Luxembourg<br />
 		</address>
 		<a href="https://goo.gl/maps/0TUlF">map</a>
-		<p>One minute away from the train station ("Belval Université" stop). Free parking lot in front of the building. Balloons will indicate the entrance from the road and the train station.
+		<p>Four minutes away from the train station ("Belval Université" stop). 
 The building is adapted to people with reduced mobility.</p>
+		<p><span style="color:red">Warning!</span>
+Next Saturday, the access to Belval district will be banned to cars because of the organization of the <a href="http://www.kulturlaf.lu/lu/1/home/">Kulturlaf</a> event. It is therefore not possible to park next to the Technoport building. We advise you to use the car park <a href="https://www.google.lu/maps/place/Belval-Universit%C3%A9/@49.4994672,5.9463081,17z/data=!3m1!4b1!4m2!3m1!1s0x479534d8d25ffaf5:0x40427f9d11c153e7!6m1!1e1?hl=en">"P+R Belval Université"</a> which is at walking distance to the Technoport (the route will be marked)
+
+If you want to unload your hardware at the Technoport, it will be possible upon presentation of <a href="img/pass_dechargement.pdf">this pass</a> to the traffic agents present at the entrance of Belval district. But after unloading, we kindly ask you to park your car at the P+R Belval-Université.
+<a href="img/pass_dechargement.pdf">All the necessary maps are available here.</a></p>
 		</div>
 
 

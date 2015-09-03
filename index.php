@@ -112,8 +112,11 @@
              Luxembourg<br />
            </address>
            <a href="https://goo.gl/maps/0TUlF">carte</a>
-           <p>À une minute à pied de la gare, arrêt "Belval Université" et places de parking gratuites devant le bâtiment.
+           <p>À 4 minutes à pied de la gare, arrêt "Belval Université".
             Le bâtiment est adapté aux personnes à mobilité réduite.</p>
+            <p><span style="color:red">Attention !</span>
+l'accès au quartier de Esch-Belval sera interdit aux voitures samedi prochain en raison de l'organisation de l'événement <a href="http://www.kulturlaf.lu/lu/1/home/">Kulturlaf</a>. Il ne sera donc pas possible de se garer à côté du bâtiment du Technoport. Nous vous conseillons donc d'utiliser <a href="https://www.google.lu/maps/place/Belval-Universit%C3%A9/@49.4994672,5.9463081,17z/data=!3m1!4b1!4m2!3m1!1s0x479534d8d25ffaf5:0x40427f9d11c153e7!6m1!1e1?hl=en">le parking P+R de Belval-Université</a> et de vous rendre à pied au Technoport (le parcours sera balisé). Si vous souhaitez déposer votre matériel informatique au Technoport, ce sera possible sur présentation du <a href="img/pass_dechargement.pdf">pass déchargement</a> aux agents de circulation présents à l'entrée du quartier de Esch-Belval. Après avoir déchargé vos affaires, nous vous demandons de déplacer votre voiture au parking P+R Belval-Université. <a href="img/pass_dechargement.pdf">Tous les plans nécessaires pour se garer et se rendre au Technoport</a>.</p>            
+
           </div>
 
           <div class="span4">
